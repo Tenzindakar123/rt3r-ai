@@ -1,0 +1,10 @@
+{
+  "name": "RT3R AI Creator Studio",
+  "short_name": "RT3R AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090b12",
+  "theme_color": "#090b12",
+  "description": "Mobile video editing studio prototype",
+  "icons": []
+}
